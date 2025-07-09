@@ -1,0 +1,17 @@
+# Environment & config
+python-dotenv>=1.0.0
+
+# Core LangChain & tools
+langchain>=0.2.0
+langchain-openai>=0.2.0
+langchain-chroma>=0.1.0
+langchain-text-splitters>=0.4.0
+
+# LangGraph orchestration
+langgraph>=0.1.0
+
+# Vector store backend
+chromadb>=0.3.25
+
+# Schema validation
+pydantic>=1.10.0
