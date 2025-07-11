@@ -1,0 +1,61 @@
+Common IT Support Issues and Solutions:
+
+1. Network connectivity problems (internet unreachable, DNS failures)
+   Solution: Check physical connections, reboot the router, use `ipconfig /flushdns`, verify DNS settings.
+
+2. Intermittent Wi-Fi disconnections
+   Solution: Update wireless drivers, change Wi-Fi channel on the router, move closer to the access point.
+
+3. Slow internet speeds or high latency
+   Solution: Test speed with a diagnostic tool, check for background downloads, restart network devices.
+
+4. VPN connection failures or authentication errors
+   Solution: Verify credentials, check VPN server status, update VPN client, ensure firewall allows VPN ports.
+
+5. Password resets and account lockouts
+   Solution: Use self-service password reset tool or contact admin, check account lockout policies.
+
+6. Email issues (cannot send/receive, mailbox full)
+   Solution: Clear mailbox storage, check SMTP/IMAP settings, verify server status, restart email client.
+
+7. Software crashes or application freezing
+   Solution: Update/reinstall the application, check for compatibility, review error logs, install patches.
+
+8. Installation errors and update failures
+   Solution: Run installer as administrator, clear temp files, free disk space, check for pending reboots.
+
+9. Printer malfunctions (paper jams, offline status)
+   Solution: Clear jams, reboot printer, reinstall printer drivers, check network/printer sharing settings.
+
+10. Slow computer performance (high CPU/memory usage)
+    Solution: Close unnecessary applications, run antivirus scan, upgrade RAM or SSD, update system.
+
+11. System crashes or blue screens of death (BSOD)
+    Solution: Check hardware for faults (RAM, disk), update drivers, boot in safe mode and review crash codes.
+
+12. Hardware failures (hard drive errors, motherboard issues)
+    Solution: Run diagnostics (chkdsk, SMART), backup data, replace faulty components.
+
+13. Peripheral device issues (mouse/keyboard not detected)
+    Solution: Reconnect USB ports, update drivers, test on another port or device.
+
+14. Application login errors and authentication failures
+    Solution: Verify user credentials, reset passwords, check authentication server connectivity.
+
+15. Missing or corrupt files/DLL errors
+    Solution: Run `sfc /scannow`, reinstall the affected application, restore from backup.
+
+16. File permission and access denied errors
+    Solution: Adjust file/folder permissions, run as administrator, check group membership.
+
+17. Backup or restore failures
+    Solution: Check backup paths, ensure sufficient storage, verify credentials and service status.
+
+18. Security alerts (virus/malware detections)
+    Solution: Quarantine/remove threats, update antivirus definitions, perform full system scan.
+
+19. Software license activation errors
+    Solution: Verify license key, check internet activation requirements, contact vendor support.
+
+20. Power and battery issues (device not charging)
+    Solution: Check power adapter, test battery health, update power management drivers.

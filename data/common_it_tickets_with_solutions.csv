@@ -1,0 +1,16 @@
+id,title,type,solution
+1,Network connectivity issues,1,"Check cable connections, reboot router, flush DNS (`ipconfig /flushdns`), verify network settings."
+2,Intermittent Wi-Fi disconnections,2,"Update wireless drivers, change Wi-Fi channel, move closer to access point."
+3,Slow internet speeds,2,"Run speed test, check for background downloads, restart network devices."
+4,VPN authentication failures,1,"Verify credentials, check VPN server status, update VPN client software."
+5,Password reset requests,3,Use self-service password reset portal or contact help desk to reset account.
+6,Email send/receive errors,2,"Check SMTP/IMAP settings, clear mailbox storage, restart email client."
+7,Software application crashes,1,"Update or reinstall the application, check compatibility, review error logs."
+8,Installation/update failures,2,"Run installer as administrator, clear temp files, ensure sufficient disk space."
+9,Printer offline or jammed,2,"Clear paper jams, reboot printer, reinstall printer drivers."
+10,Slow computer performance,2,"Close unnecessary programs, run antivirus scan, consider upgrading RAM or SSD."
+11,Blue screen of death (BSOD),1,"Check hardware diagnostics, update drivers, review crash dump codes."
+12,Hardware device not detected,1,"Reconnect device, check Device Manager for errors, update drivers."
+13,File permission denied,2,"Adjust file/folder permissions, run as administrator, verify user group membership."
+14,Missing or corrupt files,2,"Run `sfc /scannow`, reinstall affected software, restore from backup."
+15,Backup or restore failures,2,"Verify backup paths, ensure sufficient storage, check backup service status."
